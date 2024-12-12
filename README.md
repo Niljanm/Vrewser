@@ -1,5 +1,3 @@
-
-markdown
 # Personal Website
 
 ## Description
